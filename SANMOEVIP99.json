@@ -10,13 +10,79 @@
 ,
 
 {
+         "name": "SG1-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg1-free.ovpn"
+      }
+,
+
+{
+         "name": "SG2-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg2-free.ovpn"
+      }
+,
+
+{
+         "name": "SG3-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg3-free.ovpn"
+      }
+,
+
+{
+         "name": "SG4-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg-4-free.ovpn"
+      }
+,
+
+{
+         "name": "SG5-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg5-free.ovpn"
+      }
+,
+
+{
+         "name": "SG6-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg6-free.ovpn"
+      }
+,
+
+{
+         "name": "SG7-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg7-free.ovpn"
+      }
+,
+
+{
+         "name": "SG8-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg8-free.ovpn"
+      }
+,
+
+{
+         "name": "SG9-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg9-free.ovpn"
+      }
+,
+
+{
+         "name": "ind-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/ind1-free.ovpn"
+      }
+,
+
+{
+         "name": "PH-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/ph-free.ovpn"
+      }
+,
+
+{
          "name": "TH-VIP-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/dtacVIP.ovpn"
       }   
       
    ],
 "message":"
-နွေထွေးစွာကြိုဆိုပါ၏
+🤗မင်္ဂလာပါ🤗
 SANMOE VIPဝန်ဆောင်မှု
 အသုံးပြုရနိုင်သော ဆင်းကဒ်များ
 ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
@@ -31,5 +97,5 @@ SANMOE VIPဝန်ဆောင်မှု
 APKဗားရှင်း-1
 \n\nFb: SANMOE",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":1
+   "version":2
 }
