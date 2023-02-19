@@ -10,74 +10,74 @@
 ,
 
 {
-         "name": "SG1-7DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg1-free.ovpn"
+         "name": "SG1-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SG-DTAC-TRUE-1-7DAYS.ovpn"
       }
 ,
 
 {
-         "name": "SG2-7DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg2-free.ovpn"
+         "name": "SG2-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SG-DTAC-TRUE-2-7DAYS.ovpn"
       }
 ,
 
 {
-         "name": "SG3-7DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg3-free.ovpn"
+         "name": "SG3-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SG-DTAC-TRUE-3-7DAYS.ovpn"
       }
 ,
 
 {
-         "name": "SG4-7DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg-4-free.ovpn"
+         "name": "SG4-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SG-DTAC-TRUE-4-7DAYS.ovpn"
       }
 ,
 
 {
-         "name": "SG5-7DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg5-free.ovpn"
+         "name": "SG5-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SG-DTAC-TRUE-5-7DAYS.ovpn"
       }
 ,
 
 {
-         "name": "SG6-7DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg6-free.ovpn"
+         "name": "SG6-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SG-DTAC-TRUE-6-7DAYS.ovpn"
       }
 ,
 
 {
-         "name": "SG7-DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg7-free.ovpn"
+         "name": "SG7-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SG-DTAC-TRUE-7-7DAYS.ovpn"
       }
 ,
 
 {
-         "name": "SG8-7DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg8-free.ovpn"
+         "name": "SG8-free-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SG-DTAC-TRUE-8-7DAYS.ovpn"
       }
 ,
 
 {
-         "name": "SG9-DAY7-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg9-free.ovpn"
+         "name": "TH-uso1ပတ်စဝေါ့လာယူပါ",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/opentunneluso1.ovpn"
       }
 ,
 
 {
-         "name": "ind-7DAY-DTAC",
+         "name": "ind-ပတ်စဝေါ့လာယူပါ",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/ind1-free.ovpn"
       }
 ,
 
 {
-         "name": "PH-7DAY-DTAC",
+         "name": "PH-ပတ်စဝေါ့လာယူပါ",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/ph-free.ovpn"
       }
 ,
 
 {
-         "name": "TH-30DAY-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/nlo-san30%E1%80%96%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%90%E1%80%85%E1%80%BA%E1%80%81%E1%80%AF%E1%80%9E.ovpn"
+         "name": "TH-FREE-30DAY-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/opentunneluso2.ovpn"
       }   
       
    ],
@@ -88,14 +88,13 @@ SANMOE VIPဝန်ဆောင်မှု
 ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
 🔵DTAC ဆင်းကတ်
 🔴TRUE ဆင်းကတ်
-🎰စလော့ဂိမ်း11111
-🏅VIP Faceb+Youtube
-🏅VIP Game+Online
-🏅VIP တစ်လမှ၅၀ဘတ်>>
+VIP Faceb+Youtube
+VIP Game+Online
+VIP တစ်လမှ၅၀ဘတ်>>
 🎁ကြိုက်ရာသုံးအကန့်အသတ်မရှိ
-📤ဖိုင်တင်ရက် 15/02/2023
+📤ဖိုင်တင်ရက် 20/02/2023
 APKဗားရှင်း-1
 \n\nFb: SANMOE",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":3
+   "version":4
 }
