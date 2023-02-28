@@ -10,6 +10,12 @@
 ,
 
 {
+         "name": "TH-VIP1-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sanmoe.ovpn"
+      }
+,
+
+{
          "name": "SG1-ဂိမ်းသမားအတွက်1-DTAC",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg11new.ovpn"
       }
@@ -71,6 +77,6 @@ VIP တစ်လမှ၅၀ဘတ်>>
 📤ဖိုင်တင်ရက် 28/02/2023
 APKဗားရှင်း-1
 \n\nFb: SANMOE",
-"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":8
+"title":"အပ်ဒိတ်လုပ်ပါ" ,
+   "version":9
 }
