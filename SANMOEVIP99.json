@@ -4,62 +4,14 @@
 
 
 {
-         "name": "TH-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/dtacVIP.ovpn"
-      }
-,
-
-{
          "name": "TH-VIP1-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sanmoe.ovpn"
       }
 ,
 
 {
-         "name": "SG1-ဂိမ်းသမားအတွက်1-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg11new.ovpn"
-      }
-,
-
-{
-         "name": "TH-htetlin-VIP-DTAC",
+        "name": "TH-htetlin-VIP-DTAC",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/htetlin.ovpn"
-      }
-,
-
-{
-         "name": "SG2-ဂိမ်းသမားအတွက်2-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg12new.ovpn"
-      }
-,
-
-{
-         "name": "SG3-ဂိမ်းသမားအတွက်3-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg13new.ovpn"
-      }
-,
-
-{
-         "name": "SG4-fb+tiktok-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg14new.ovpn"
-      }
-,
-
-{
-         "name": "SG5-fb+tiktok-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg15new.ovpn"
-      }
-,
-
-{
-         "name": "SG6-VKသမားအတွက်-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg16new.ovpn"
-      }
-,
-
-{
-         "name": "SG7-Telegramသမားအတွက်-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sg17new.ovpn"
       }
       
    ],
@@ -70,13 +22,13 @@ SANMOE VIPဝန်ဆောင်မှု
 ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
 🔵DTAC ဆင်းကတ်
 🔴TRUE ဆင်းကတ်
-VIP Faceb+Youtube
+VIP Facebook+Youtube
 VIP Game+Online
 VIP တစ်လမှ၅၀ဘတ်>>
 🎁ကြိုက်ရာသုံးအကန့်အသတ်မရှိ
-📤ဖိုင်တင်ရက် 28/02/2023
+📤ဖိုင်တင်ရက် 4/03/2023
 APKဗားရှင်း-1
 \n\nFb: SANMOE",
 "title":"အပ်ဒိတ်လုပ်ပါ" ,
-   "version":9
+   "version":10
 }
