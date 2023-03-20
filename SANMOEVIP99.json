@@ -10,26 +10,26 @@
 ,
 
 {
-         "name": "SG2-FREE-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/11.ovpn"
-      }
-,
-
-{
-         "name": "SG3-FREE-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/12.ovpn"
-      }
-,
-
-{
-         "name": "SG4-FREE-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/13.ovpn"
-      }
-,
-
-{
-         "name": "SG1-FREE-DTAC",
+         "name": "SG1-DTAC",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/14.ovpn"
+      }
+,
+
+{
+         "name": "SG4-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/15.ovpn"
+      }
+,
+
+{
+         "name": "SG3-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/16.ovpn"
+      }
+,
+
+{
+         "name": "SG2-DTAC",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/443.ovpn"
       }
 ,
 
@@ -40,20 +40,20 @@
       
    ],
 "message":"
-🤗မင်္ဂလာပါ🤗
-SANMOE VIPဝန်ဆောင်မှု
+         🤗မင်္ဂလာပါ🤗
+          SANMOE VIP
 အသုံးပြုရနိုင်သော ဆင်းကဒ်များ
-ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
+ထူးမူ-ဒီတက် များဖြစ်ပါတယ်
 🔵DTAC ဆင်းကတ်
 🔴TRUE ဆင်းကတ်
 VIP Facebook+Youtube
 VIP Game+Online
 VIP တစ်လမှ၅၀ဘတ်>>
-🎁ကြိုက်ရာသုံးအကန့်အသတ်မရှိ
-🎁လိုင်းကောင်းသုံးချင်ရင်အပ်ဒိတ်လုပ်လိုက်ပါခု
-📤ဖိုင်တင်ရက် 12/03/2023
+လိုင်းကောင်းသုံးချင်ရင်(၃)လစာ61ဘတ်
+နဲ့တွဲသုံးရပါမယ်
+📤ဖိုင်တင်ရက် 20/03/2023
 APKဗားရှင်း-1
 \n\nFb: SANMOE",
 "title":"အပ်ဒိတ်လုပ်ပါ" ,
-   "version":11
+   "version":12
 }
