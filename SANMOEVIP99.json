@@ -11,25 +11,15 @@
 
 {
          "name": "SG1-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/thai1.ovpn"
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/171.ovpn"
       }
 ,
 
-{
-         "name": "SG4-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/2sg.ovpn"
-      }
-,
 
-{
-         "name": "SG3-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/san1.ovpn"
-      }
-,
 
 {
          "name": "SG2-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/thai.ovpn"
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/18%20(1).ovpn"
       }
 ,
 
@@ -55,5 +45,5 @@ VIP တစ်လမှ၅၀ဘတ်သာဖြစ်ပါတယ်
 APKဗားရှင်း-1
 \n\nFb: SANMOE",
 "title":"အပ်ဒိတ်တင်ပါ" ,
-   "version":14
+   "version":15
 }
