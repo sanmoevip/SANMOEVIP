@@ -7,37 +7,29 @@
       }
 ,
 {
-         "name": "TH-VIP1-DTAC-TRUE",
+         "name": "TH1-VIP-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sanmoe.ovpn"
       }
 ,
+
 {
-         "name": "SG2-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/s1.ovpn"
+         "name": "SG1-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/1.ovpn"
       }
 ,
 {
-         "name": "SG3-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/SmartGStories.ovpn"
+         "name": "SG2-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/2.ovpn"
       }
 ,
 {
-         "name": "SG4-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/s1a.ovpn"
+         "name": "SG3-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/3.ovpn"
       }
 ,
+
 {
-         "name": "SG5-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/s4.ovpn"
-      }
-,
-{
-         "name": "SG6-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/ssa.ovpn"
-      }
-,
-{
-        "name": "TH-ထက်လင်း-VIP-DTAC",
+        "name": "TH-ထက်လင်း-DTAC",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/htetlin.ovpn"
       }
       
@@ -46,14 +38,13 @@
          🤗မင်္ဂလာပါ🤗
 SANMOE VIPမှကြိုဆိုပါတယ်vipဝယ်ယူအား
 ပေးအသုံးပြုနိုင်တဲ့(ဆင်ကတ်)👇
-ထူးမူ-ဒီတက် များဖြစ်ပါတယ်
-အဆင်မပြေမှုအတွက်အားလုံးတောင်ပန်ပါတယ်နော်
+ထူးမူ-ဒီတက် များဖြစ်ပါသည်
 VIP တစ်လမှ၅၀ဘတ်သာဖြစ်ပါတယ်
 လိုင်းကောင်းလေးသုံးချင်ရင်(၉၀)ရက်61ဘတ်
-နဲ့တွဲစမတ်မေးရပါမယ်.
-📤ဖိုင်တင်ရက် 24/04/2023
+နဲ့တွဲစမတ်ပေးရပါမည်
+📤ဖိုင်တင်ရက် 6/5/2023
 APKဗားရှင်း-1
 \n\nFb: SANMOE",
 "title":"အပ်ဒိတ်တင်ပါ" ,
-   "version":26
+   "version":27
 }
