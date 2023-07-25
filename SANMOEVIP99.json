@@ -2,32 +2,73 @@
    "files": [    
 
 {
-         "name": "TH-Vip-DTAC-TRUE",
+         "name": "TH1-VIP-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sanVIP.ovpn"
+      }
+,
+{
+         "name": "TH2-VIP-GAME80-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/TH2DT.ovpn"
+      }
+,
+{
+         "name": "TH3-AIS-VIP-GAME80",
+         "url": "https://raw.githubusercontent.com/sanmoeVIP/SANMOEVIP/main/TH3AIS.ovpn"
+      }
+,
+{
+         "name": "TH3-VIP-GAME80-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoeVIP/SANMOEVIP/main/TH3DT.ovpn"
+      }
+,
+{
+         "name": "TH5-VIP-GAME80-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoeVIP/SANMOEVIP/main/TH5DT.ovpn"
+      }
+,
+{
+         "name": "TH5-AIS-VIP-GAME80",
+         "url": "https://raw.githubusercontent.com/sanmoeVIP/SANMOEVIP/main/TH5AIS.ovpn"
+      }
+,
+{
+         "name": "TH6-VIP-GAME80-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoeVIP/SANMOEVIP/main/TH6DT.ovpn"
+      }
+,
+{
+         "name": "TH8-VIP-GAME80-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/TH8DT.ovpn"
+      }
+,
+{
+         "name": "TH11-VIP-GAME80-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/TH11DT.ovpn"
+      }
+,
+{
+        "name": "TH9-VIP-DTAC-nlo",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sanmoe.ovpn"
-      }
-,
-{
-         "name": "SG-ပတ်စဝေါ့လာယူပါနော်သုံးချင်ရင်",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/30vip.ovpn"
-      }
-,
-{
-        "name": "SG-ထက်လင်း-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/htetlin.ovpn"
       }
       
    ],
 "message":"
-         🌍မင်္ဂလာပါ🌏
+
+                       🌍မင်္ဂလာပါ🌏
+                  🔆 အှ်ဆံင့်လာဆာ်🔆
+⏱LATEST UPDATE- 26/07/2023(Y.B.G)⏱
 SANMOE VIPမှကြိုဆိုပါတယ်vipဝယ်ယူအား
 ပေးအသုံးပြုနိုင်တဲ့(ဆင်ကတ်)👇
 🌷ထူးမူ-🔵ဒီတက် များဖြစ်ပါသည်
-VIP တစ်လမှ၅၀ဘတ်သာဖြစ်ပါတယ်
-🌠လိုင်းကောင်းလေးသုံးချင်ရင်❤(၉၀)ရက်💓61ဘတ်
-နဲ့တွဲစမတ်ပေးရပါမည်🐰🇲🇲
-🕐ဖိုင်တင်ရက် 11/6/2023🎯
-APKဗားရှင်း-34
-\n\nFb: SANMOE",
-"title":"အပ်ဒိတ်တင်ပါ" ,
-   "version":34
+VIP တစ်လမှ၅၀ဘတ်သာဖြစ်ပါကြောင်း🎯
+ 📢 GAMEသမားအတွက်vipသီးသန့်လဲရောင်းပေးသည်📢
+       
+                        ဆက်သွယ်ရန်လင့်👇👇
+                      https://m.me/san.moe55               
+                            
+ APK-  အဲလင်ဖၠုံ/အဲၣ်လီၤကညီ
+
+\n\nFb: KYAWSANMOE",
+"title":"update" ,
+   "version":35
 }
