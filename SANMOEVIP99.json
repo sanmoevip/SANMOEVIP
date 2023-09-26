@@ -12,7 +12,7 @@
       }
 ,
 {
-         "name": "TH3-VIP80-DTAC-GAME1",
+         "name": "TH3-VIP80-GAME1-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game.ovpn"
       }
 ,
@@ -37,17 +37,17 @@
       }
 ,
 {
-         "name": "TH8-VIP80-GAME2-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game2.ovpn"
+         "name": "TH8-VIP80-GAME3-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game3.ovpn"
       }
 ,
 {
-         "name": "TH11-VIP80-GAME-DTAC-TRUE",
+         "name": "TH11-VIP80-GAME11-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/TH11DT.ovpn"
       }
 ,
 {
-        "name": "TH9-VIP-DTAC-TRUE-50B",
+        "name": "TH9-VIP50-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/san60.ovpn"
       }
       
@@ -62,5 +62,5 @@ SANMOE VIPမှကြိုဆိုပါတယ်vipဝယ်ယူအား
 GAMEသမားအတွက်vipသီးသန့်လဲရောင်းပေးသည်             
 \n\nFb: KYAWSANMOE",
 "title":"update" ,
-   "version":41
+   "version":42
 }
