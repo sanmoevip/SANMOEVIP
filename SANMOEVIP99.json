@@ -7,60 +7,29 @@
       }
 ,
 {
-         "name": "TH2-VIP50-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/sanais.ovpn"
-      }
-,
-{
-         "name": "TH3-VIP80-GAME1-DTAC-TRUE",
+         "name": "TH-VIP-GAME-01",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game.ovpn"
       }
 ,
 {
-         "name": "TH3-VIP80-GAME2-DTAC-TRUE",
+         "name": "TH-VIP-GAME-02",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game2.ovpn"
       }
 ,
 {
-         "name": "TH5-VIP80-GAME2-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoeVIP/SANMOEVIP/main/game2.ovpn"
-      }
-,
-{
-         "name": "TH5-VIP80-GAME1-DTAC-TRUE-",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game.ovpn"
-      }
-,
-{
-         "name": "TH6-VIP80-GAME2-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoeVIP/SANMOEVIP/main/game2.ovpn"
-      }
-,
-{
-         "name": "TH8-VIP80-GAME3-DTAC-TRUE",
+         "name": "TH-VIP-GAME-03",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game3.ovpn"
       }
-,
-{
-         "name": "TH11-VIP80-GAME11-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/TH11DT.ovpn"
-      }
-,
-{
-        "name": "TH9-VIP50-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/san60.ovpn"
-      }
-      
    ],
 "message":"
 
                        🌍မင်္ဂလာပါ🌏
                  🙏 အှ်ဆံင့်လာဆာ်🙏
-SANMOE VIPမှကြိုဆိုပါတယ်vipဝယ်ယူအား
-ပေးအသုံးပြုနိုင်တဲ့(ဆင်ကတ်)👇🌷ထူးမု-🔵ဒီထယ်
-တစ်လမှ၅၀ဘတ်သာဖြစ်ပါကြောင်း🎯
-GAMEသမားအတွက်vipသီးသန့်လဲရောင်းပေးသည်             
+SANMOE VIPမှကြိုဆိုပါတယ် vipအသုံးပြုရဖို့(90)ရက်
+(61) ဘတ်နဲ့တွဲစမတ်ပေးရပါမည် DTACဆော့ဝဲဒေါင်းထားရ
+ပါမည်playstoreမှာဒေါင်းရန်လင့် https://play.google.com/store/apps/details?id=th.co.crie.tron2.android
+     
 \n\nFb: KYAWSANMOE",
 "title":"update" ,
-   "version":44
+   "version":45
 }
