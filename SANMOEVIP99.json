@@ -7,17 +7,17 @@
       }
 ,
 {
-         "name": "TH-VIP-GAME-01",
+         "name": "TH2-VIP-GAME-01",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-GAME-02",
+         "name": "TH3-VIP-GAME-02",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game2.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-GAME-03",
+         "name": "TH4-VIP-GAME-03",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game3.ovpn"
       }
    ],
@@ -31,5 +31,5 @@ SANMOE VIPမှကြိုဆိုပါတယ် vipအသုံးပြု
      
 \n\nFb: KYAWSANMOE",
 "title":"update" ,
-   "version":45
+   "version":46
 }
