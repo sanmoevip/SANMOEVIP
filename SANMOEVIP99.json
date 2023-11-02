@@ -8,7 +8,7 @@
 ,
 {
          "name": "TH2-VIP-GAME-01",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game.ovpn"
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game1.ovpn"
       }
 ,
 {
@@ -31,5 +31,5 @@ SANMOE VIPမှကြိုဆိုပါတယ် vipအသုံးပြု
      
 \n\nFb: KYAWSANMOE",
 "title":"update" ,
-   "version":46
+   "version":47
 }
