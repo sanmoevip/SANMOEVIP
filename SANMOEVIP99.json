@@ -8,17 +8,12 @@
 ,
 {
          "name": "TH-VIP-GAME-01",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game.ovpn"
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game1.ovpn"
       }
 ,
 {
          "name": "TH-VIP-GAME-02",
          "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game2.ovpn"
-      }
-,
-{
-         "name": "TH-VIP-GAME-03",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/game3.ovpn"
       }
    ],
 "message":"
@@ -31,5 +26,5 @@ SANMOE VIPမှကြိုဆိုပါတယ်vipဝယ်ယူအား
 GAMEသမားအတွက်vipသီးသန့်လဲရောင်းပေးသည်             
 \n\nFb: KYAWSANMOE",
 "title":"update" ,
-   "version":48
+   "version":49
 }
